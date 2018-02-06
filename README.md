@@ -1,2 +1,2 @@
 # Calculator
-A WIP calculator that can do basic operations right now. Working on expanding the functionalities and debugging. Written in processing..
+A fully functioning English to Pig Latin translator.
